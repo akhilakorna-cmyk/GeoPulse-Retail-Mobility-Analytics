@@ -38,10 +38,17 @@ and geographical trends.
 Initial project setup completed.
 Dataset collection and analysis are pending.
 
-### 24 November 2026 – Development Update
+### 26 November 2026 – Development Update
 
-- Reviewed the GeoPulse project structure.
-- Verified the GitHub repository status.
-- Reviewed the project objectives and technology stack.
-- Prepared the development plan for dataset collection and preprocessing.
-- Planned upcoming retail footfall analysis activities.
+- Reviewed the GeoPulse project overview and objectives.
+- Verified that the Git working tree is clean.
+- Confirmed that the local main branch is synchronized with the GitHub repository.
+- Reviewed the planned dataset collection and preprocessing activities.
+- Organized the next development tasks for retail footfall and customer mobility analysis.
+- Planned the implementation of data visualization and interactive dashboards.
+
+**Next Steps:**
+- Collect a suitable retail mobility dataset.
+- Perform data cleaning and preprocessing.
+- Start exploratory data analysis (EDA).
+- Develop visualizations for customer footfall patterns.
